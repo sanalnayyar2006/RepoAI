@@ -1,0 +1,13 @@
+/* ═══════════════════════════════════════════════════════════
+   REPOPILOT AI - BASE RESET (non-conflicting with App.css)
+   ═══════════════════════════════════════════════════════════ */
+
+/* All core design tokens, body styles, and component styles
+   are defined in App.css. This file only holds truly global
+   resets that don't conflict. */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
